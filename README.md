@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .TATTOO one-word domains still available to buy.
 
-This dataset contains 4,788 .TATTOO one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,191 .TATTOO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.TATTOO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tattoo-oneword-domains&utm_content=description.top) (4,785) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.TATTOO one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.csv"><b>⬇️ CSV (4.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.json"><b>⬇️ JSON (4.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.csv"><b>⬇️ CSV (5.19K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.json"><b>⬇️ JSON (5.19K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tattoo-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
 | ----------------- | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
-| aaron.tattoo      | available | 88       | 32%    | 5      |             |                  |                  |
+| aaron.tattoo      | available | 88       | 28%    | 5      |             |                  |                  |
 | abactinal.tattoo  | available | 50       | 1%     | 9      |             |                  |                  |
 | abaft.tattoo      | available | 43       | 2%     | 5      |             |                  |                  |
 | abandoned.tattoo  | available | 58       | 7%     | 9      |             |                  |                  |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.TATTOO one word domai
 | abatic.tattoo     | available | 54       | 2%     | 6      |             |                  |                  |
 | abaxial.tattoo    | available | 54       | 2%     | 7      |             |                  |                  |
 | abbatial.tattoo   | available | 50       | 1%     | 8      |             |                  |                  |
-| abc.tattoo        | resell    | 102      | 41%    | 3      | Dynadot Inc | 07/11/2022 02:51 | 07/11/2025 02:51 |
+| abc.tattoo        | resell    | 102      | 39%    | 3      | Dynadot Inc | 07/11/2022 02:51 | 07/11/2026 02:51 |
 | abdicable.tattoo  | available | 50       | 1%     | 9      |             |                  |                  |
 | abdominal.tattoo  | available | 82       | 5%     | 9      |             |                  |                  |
 | abdominous.tattoo | available | 56       | 1%     | 10     |             |                  |                  |
@@ -43,19 +43,19 @@ If you want to search & filters the complete database of [.TATTOO one word domai
 | aberrant.tattoo   | available | 74       | 7%     | 8      |             |                  |                  |
 | abeyant.tattoo    | available | 56       | 2%     | 7      |             |                  |                  |
 | abhorrent.tattoo  | available | 54       | 3%     | 9      |             |                  |                  |
+| abide.tattoo      | available | 94       | 15%    | 5      |             |                  |                  |
 | abiding.tattoo    | available | 106      | 5%     | 7      |             |                  |                  |
 | abient.tattoo     | available | 54       | 1%     | 6      |             |                  |                  |
-| ability.tattoo    | available | 92       | 18%    | 7      |             |                  |                  |
-| abit.tattoo       | available | 66       | 16%    | 5      |             |                  |                  |
+| ability.tattoo    | available | 92       | 16%    | 7      |             |                  |                  |
+| abit.tattoo       | available | 66       | 12%    | 5      |             |                  |                  |
 | abject.tattoo     | available | 94       | 8%     | 6      |             |                  |                  |
 | abkhas.tattoo     | available | 68       | 1%     | 6      |             |                  |                  |
 | abkhasian.tattoo  | available | 78       | 1%     | 9      |             |                  |                  |
-| abkhaz.tattoo     | available | 82       | 2%     | 6      |             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.csv"><b>⬇️ CSV (4.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.json"><b>⬇️ JSON (4.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.csv"><b>⬇️ CSV (5.19K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/tattoo-oneword-domains/blob/main/tattoo.json"><b>⬇️ JSON (5.19K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tattoo-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.TATTOO one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
