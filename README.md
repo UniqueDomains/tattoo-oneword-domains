@@ -1,22 +1,22 @@
-# Available .TATTOO One-Word Domains (5,622,048)
+# Available .TATTOO One-Word Domains (9,571)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C570%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C048%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C574%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C571%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .tattoo one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .tattoo one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,570-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,048 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,570 rows · **Live catalog:** 5,622,048 domains
+**Public extract:** 9,574 rows · **Live catalog:** 9,571 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/tattoo`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TATTOO one-word domai
 
 ### Files
 
-- `tattoo.csv` — public CSV extract (9,570 rows)
-- `tattoo.json` — public JSON extract (9,570 rows)
+- `tattoo.csv` — public CSV extract (9,574 rows)
+- `tattoo.json` — public JSON extract (9,574 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,10 +65,10 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | converse.tattoo   | available | $48.98    | —             | 64             | 73     | 8      | namecheap       |
-| about.tattoo      | resell    | $40.98    | —             | 94             | 38     | 5      | Spaceship, Inc. |
+| about.tattoo      | resell    | $40.98    | —             | 94             | 37     | 5      | Spaceship, Inc. |
 | good.tattoo       | premium   | $125      | $125          | 82             | 55     | 4      | name.com        |
 | nationwide.tattoo | available | $48.98    | —             | 76             | 66     | 10     | namecheap       |
-| http.tattoo       | resell    | —         | —             | 80             | 73     | 4      | Porkbun         |
+| http.tattoo       | resell    | —         | —             | 80             | 72     | 4      | Porkbun         |
 | true.tattoo       | premium   | $125      | $125          | 86             | 52     | 4      | name.com        |
 | seventeen.tattoo  | available | $48.98    | —             | 84             | 62     | 9      | namecheap       |
 | enjoy.tattoo      | resell    | —         | —             | 88             | 66     | 5      | Spaceship, Inc. |
@@ -76,14 +76,14 @@ print(df.head())
 | athletics.tattoo  | available | $48.98    | —             | 69             | 52     | 9      | namecheap       |
 | match.tattoo      | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc. |
 | life.tattoo       | premium   | $130      | $130          | 84             | 50     | 4      | namecheap       |
-| clear.tattoo      | available | $48.98    | —             | 90             | 50     | 5      | namecheap       |
-| web.tattoo        | resell    | —         | —             | 72             | 65     | 3      | Spaceship, Inc. |
-| air.tattoo        | premium   | $130      | $130          | 84             | 49     | 3      | namecheap       |
 | tech.tattoo       | available | $48.98    | —             | 86             | 50     | 4      | namecheap       |
 | domain.tattoo     | resell    | —         | —             | 80             | 64     | 6      | Porkbun         |
+| air.tattoo        | premium   | $130      | $130          | 84             | 49     | 3      | namecheap       |
+| clear.tattoo      | available | $48.98    | —             | 90             | 49     | 5      | namecheap       |
+| fun.tattoo        | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc. |
 | simple.tattoo     | premium   | $125      | $125          | 128            | 48     | 6      | name.com        |
-| only.tattoo       | available | $48.98    | —             | 110            | 47     | 4      | namecheap       |
-| fun.tattoo        | resell    | —         | —             | 122            | 63     | 3      | Spaceship, Inc. |
+| trade.tattoo      | available | $48.98    | —             | 116            | 46     | 5      | namecheap       |
+| fantastic.tattoo  | resell    | —         | —             | 88             | 62     | 9      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,570-row public sample | 5,622,048 live domains                           |
+| 9,574-row public sample | 9,571 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
