@@ -1,10 +1,10 @@
-# Available .TATTOO One-Word Domains (9,571)
+# Available .TATTOO One-Word Domains (9,574)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C574%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C571%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C574%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .tattoo one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,574 rows · **Live catalog:** 9,571 domains
+**Public extract:** 9,574 rows · **Live catalog:** 9,574 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tattoo`  
@@ -74,16 +74,16 @@ print(df.head())
 | enjoy.tattoo      | resell    | —         | —             | 88             | 66     | 5      | Spaceship, Inc. |
 | game.tattoo       | premium   | $125      | $125          | 120            | 50     | 4      | name.com        |
 | athletics.tattoo  | available | $48.98    | —             | 69             | 52     | 9      | namecheap       |
-| match.tattoo      | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc. |
+| domain.tattoo     | resell    | —         | —             | 80             | 64     | 6      | Porkbun         |
 | life.tattoo       | premium   | $130      | $130          | 84             | 50     | 4      | namecheap       |
 | tech.tattoo       | available | $48.98    | —             | 86             | 50     | 4      | namecheap       |
-| domain.tattoo     | resell    | —         | —             | 80             | 64     | 6      | Porkbun         |
-| air.tattoo        | premium   | $130      | $130          | 84             | 49     | 3      | namecheap       |
-| clear.tattoo      | available | $48.98    | —             | 90             | 49     | 5      | namecheap       |
 | fun.tattoo        | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc. |
-| simple.tattoo     | premium   | $125      | $125          | 128            | 48     | 6      | name.com        |
-| trade.tattoo      | available | $48.98    | —             | 116            | 46     | 5      | namecheap       |
+| simple.tattoo     | premium   | $125      | $125          | 128            | 49     | 6      | name.com        |
+| clear.tattoo      | available | $48.98    | —             | 90             | 49     | 5      | namecheap       |
 | fantastic.tattoo  | resell    | —         | —             | 88             | 62     | 9      | Spaceship, Inc. |
+| air.tattoo        | premium   | $130      | $130          | 84             | 49     | 3      | namecheap       |
+| trade.tattoo      | available | $48.98    | —             | 116            | 46     | 5      | namecheap       |
+| web.tattoo        | resell    | —         | —             | 72             | 61     | 3      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,574-row public sample | 9,571 live domains                               |
+| 9,574-row public sample | 9,574 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
