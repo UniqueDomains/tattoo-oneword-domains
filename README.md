@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tattoo one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,529 domains · **Median ask:** $28.34 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/tattoo`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,10 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | bad.tattoo     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
+| room.tattoo    | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| perfect.tattoo | available | —         | —             | high           | low    | 7      | —                |
+| fuck.tattoo    | premium   | $116      | $116          | high           | high   | 4      | namesilo         |
+| soft.tattoo    | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
 | pin.tattoo     | available | $48.98    | —             | high           | low    | 3      | namecheap        |
 | bali.tattoo    | resell    | —         | —             | medium         | medium | 4      | Porkbun          |
 | ass.tattoo     | premium   | $116      | $116          | low            | low    | 3      | namesilo         |
@@ -80,10 +84,6 @@ print(df.head())
 | north.tattoo   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | egg.tattoo     | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
 | cent.tattoo    | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
-| browse.tattoo  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| fly.tattoo     | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| cows.tattoo    | available | $48.98    | —             | medium         | low    | 4      | namecheap        |
-| detroit.tattoo | resell    | —         | —             | medium         | low    | 7      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
