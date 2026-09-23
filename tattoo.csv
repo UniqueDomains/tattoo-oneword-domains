@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-514923c8-3641-43ba-8ef8-afe017d725eb,admired.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+514923c8-3641-43ba-8ef8-afe017d725eb,admired.tattoo,available,2.98,48.98,low,low,7,namecheap,,,21/09/2026 18:53
 6b3c1f0e-2b7f-4237-b2c7-da2db0ee1413,exalt.tattoo,available,2.98,48.98,medium,low,5,namecheap,,,
 ff4d9af2-4231-47b2-81b1-e622c14cbb4a,archducal.tattoo,available,2.98,48.98,low,low,9,namecheap,,,06/08/2026 15:27
 5318f144-18e3-41b7-a626-0487ed9effe0,newyork.tattoo,available,34.99,34.99,high,medium,8,namesilo,,,
@@ -12,7 +12,7 @@ bc438610-f4a9-47d7-9701-0337646fd827,acceptant.tattoo,available,2.98,48.98,low,l
 685ddfa8-c823-4a87-8490-ff178e5c5e72,wheelabout.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
 93fe518e-bb1d-43d2-b664-3093eab2c76f,solvable.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
 96f41dd3-6f5a-4eda-a5f3-0c23842b5036,havesex.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-01e30cb9-5ff3-4177-8689-f59c13607af8,annoying.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+01e30cb9-5ff3-4177-8689-f59c13607af8,annoying.tattoo,available,34.99,34.99,low,low,8,namesilo,,,22/09/2026 05:19
 8469c032-61c7-4dd9-b409-a015f6e98edd,youthink.tattoo,available,34.99,34.99,low,low,9,namesilo,,,
 3be25db2-9485-40a8-9393-e3328348c4d3,arteriolar.tattoo,available,2.98,48.98,low,low,10,namecheap,,,06/08/2026 22:34
 aa25348f-6b1e-4f34-b6e0-2949dae0adb9,maintained.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
@@ -25,13 +25,13 @@ d01d9e6d-3f1f-4598-b58e-2ede78113d21,harddrive.tattoo,available,34.99,34.99,high
 70438cee-545c-4600-86ef-e8edfbddef34,vibrate.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 7de0d904-f0eb-47c5-8afe-20ba9244ff26,limiting.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 2aa17a4f-adc3-4e3f-bf92-1a556e0e7ae7,jimthorpe.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
-fb7f0a87-1ad6-49db-91d6-83452b2e26b5,superstar.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
+fb7f0a87-1ad6-49db-91d6-83452b2e26b5,superstar.tattoo,available,2.98,48.98,medium,low,9,namecheap,,,21/09/2026 17:56
 cf4840f4-c6ca-49a0-a354-fe9a50110879,appointment.tattoo,available,48.98,,high,low,11,namecheap,,,
 69f53290-c0be-48a1-9a6d-bf0a87c9f0d8,watch.tattoo,premium,116,116,high,low,5,namesilo,,,
-ec43b00f-1524-4d2e-a920-a921fb9267f4,forth.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
+ec43b00f-1524-4d2e-a920-a921fb9267f4,forth.tattoo,available,34.99,34.99,low,low,5,namesilo,,,22/09/2026 14:59
 2f91f411-8a18-4bf0-8abb-b24a9acc1128,incline.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 68562381-edec-4879-ac88-b636e8bf3125,began.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
-79071e7b-28c9-493e-a32a-1d68dd48256b,whatever.tattoo,available,48.98,,high,low,8,namecheap,,,
+79071e7b-28c9-493e-a32a-1d68dd48256b,whatever.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 06:56
 c0a8946b-e134-473c-a429-ffa512fc4491,lecture.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 2b2fafbb-c310-4455-bddd-0c12cf5f0e43,perfected.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 cd6bf4bc-5f27-40c4-b786-9c458d909c47,agamous.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
@@ -39,17 +39,17 @@ cd6bf4bc-5f27-40c4-b786-9c458d909c47,agamous.tattoo,available,2.98,48.98,low,low
 a8e5731e-10b0-4c44-bdce-102a3207a399,diploma.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 01bd7837-cda0-4f07-957d-6e230920d5b5,torturous.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 07ec4661-26fd-47ba-997a-fa85d12f860c,gosing.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
-78993ed3-0706-4d0e-aff3-6b253b346849,fearless.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+78993ed3-0706-4d0e-aff3-6b253b346849,fearless.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 12:19
 ad7f18dc-2240-405b-8f5a-78738496cc1c,incometax.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 bed42ab2-9c44-48d9-883a-f3028c3659ba,legislative.tattoo,available,34.99,34.99,high,low,11,namesilo,,,
 e618e9b2-077b-4f8e-9097-d3ad54828462,compatible.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
-acb90513-d32d-48ed-a0f3-792b1cd7465c,nimble.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+acb90513-d32d-48ed-a0f3-792b1cd7465c,nimble.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,21/09/2026 23:05
 32c56341-960f-40b0-bcfe-c51aab24a6f7,sneeze.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 1a9e9b9e-b473-490a-9c92-b6403fe35f04,allowfor.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 7dcbdc9f-81ed-4372-9eed-26a328a2c19c,surprised.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 1232cb1f-d0a5-4521-b431-6f148d5b87d4,reversed.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 a1a46ff0-b71a-424d-b614-9bcbdc2627dc,bubble.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
-6c3d92a1-485c-408f-8487-dffdcc7079b4,amethyst.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
+6c3d92a1-485c-408f-8487-dffdcc7079b4,amethyst.tattoo,available,34.99,34.99,low,low,8,namesilo,,,22/09/2026 04:15
 b30459a5-330e-4a7f-9610-9cbce664709c,keeptime.tattoo,available,48.98,,high,low,9,namecheap,,,
 e2107d5e-1ba7-4898-bbeb-bafc58d6102d,saddletree.tattoo,available,48.98,,low,low,11,namecheap,,,
 5d288095-cc0b-46e1-a35d-2d9e0c8c64c3,teeshirt.tattoo,available,48.98,,high,low,9,namecheap,,,
@@ -66,7 +66,7 @@ aa2e13b6-f5fe-472b-89da-5caecc1095bc,whip.tattoo,available,34.99,34.99,high,low,
 cf5432cb-7fb8-4777-8756-f4838dce080e,onlytoo.tattoo,available,2.98,48.98,low,low,8,namecheap,,,13/09/2026 19:01
 53458dac-59e3-42a7-ae4c-3793fc66c84c,longitude.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
 d977d0f0-7ac0-46c9-b187-1a1b706db13b,miracle.tattoo,available,48.98,,high,low,7,namecheap,,,
-645a2ecb-d1d8-4c58-aa47-be3033282736,bothered.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
+645a2ecb-d1d8-4c58-aa47-be3033282736,bothered.tattoo,available,34.99,34.99,low,low,8,namesilo,,,23/09/2026 01:08
 76029b12-cd7e-4d4c-9786-519a5809255f,apostolic.tattoo,available,2.98,48.98,low,low,9,namecheap,,,06/08/2026 04:04
 a9ef51d8-29be-4d66-bd43-bb4df7ad5efe,getting.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 5c32d936-6629-4db9-82f3-e574a55bbf19,shooting.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
@@ -79,7 +79,7 @@ a68f2906-135c-402a-9971-a2f665596671,spend.tattoo,available,34.99,34.99,high,low
 f7704baa-f5e6-4586-8c01-16f3e18df28a,described.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
 b4d25238-26d3-4a61-960f-614292677981,strawberryred.tattoo,available,34.99,34.99,low,low,14,namesilo,,,
 fdeb92d7-2349-4f21-897a-fbe2a685a4f7,explorer.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-0bc9a8c5-cbfb-43ae-9ac5-e8a402059351,animating.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
+0bc9a8c5-cbfb-43ae-9ac5-e8a402059351,animating.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,22/09/2026 05:08
 005f8c2d-77a3-43c7-b3d5-8b0c3c2fa190,offcolor.tattoo,available,2.98,48.98,low,low,9,namecheap,,,09/08/2026 02:10
 06dd8ec1-b18c-451d-b444-9540b674ef83,facilitating.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
 641fde31-b28f-4665-834e-e23be4fe32e9,anaclitic.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
@@ -122,7 +122,7 @@ b4b76285-2432-4789-99df-79b697a80dfd,gardencentre.tattoo,available,34.99,34.99,h
 d11d5706-271c-4efb-b862-9d7f46fc150b,inconsistent.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
 4c8eec2b-b722-4b8e-823f-1e1490443f7c,barebacked.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 18:44
 3979882b-86c2-4cdc-bc9a-ca96d7359658,return.tattoo,available,2.98,48.98,medium,low,6,namecheap,,,19/09/2026 03:27
-ea7a5d65-cad0-4413-94ea-7b6cf7b89d05,auspicious.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+ea7a5d65-cad0-4413-94ea-7b6cf7b89d05,auspicious.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,22/09/2026 13:12
 e7b052e4-e70e-45ce-a8f1-5ad9bdb77f04,aminic.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 6eb2b3a8-8f1f-456c-ae1a-841dfcb42a3a,receipts.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 f279e775-4ef3-4db8-a5fc-37e342e9ab00,elaborate.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
@@ -150,7 +150,7 @@ e1db7c0c-bac4-49dc-bb49-f3c25f7230c2,littleblackdress.tattoo,available,34.99,34.
 00df554a-b919-4a8a-a6ee-9778994888fc,jupiter.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 b47379b8-8c61-4787-8ba9-c78821fedb09,leadership.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 bc9686d7-6a7a-484c-ae29-1a401dfb869d,routine.tattoo,available,48.98,,high,low,7,namecheap,,,
-758b4904-b3a9-40ad-b520-7959f43d6063,ace.tattoo,available,,,high,medium,3,,,,
+758b4904-b3a9-40ad-b520-7959f43d6063,ace.tattoo,premium,130,130,medium,low,3,namecheap,,,21/09/2026 10:41
 4e6abf05-2bd7-4a68-a12f-c7075a8d7aba,barehanded.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 19:10
 a2dd0c3b-8ea2-4566-9654-262ae7b4ccb7,astatic.tattoo,available,2.98,48.98,low,low,7,namecheap,,,07/08/2026 08:36
 878f515c-3515-4e2d-8c1b-a5cfa6dca253,rhianna.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
@@ -162,10 +162,10 @@ b84b30cc-2191-4773-adc3-11226f1ec600,talkof.tattoo,available,34.99,34.99,low,low
 b7de2e0e-6557-4318-bd4f-43a63013bfe8,privileged.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 86b85baf-4683-4ce5-b64b-75175ef92487,deepdish.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 5ab15aed-d480-45cc-9f15-79cc9e4ca8f7,vii.tattoo,premium,116,116,low,low,3,namesilo,,,
-a112dee0-fbd3-4289-b9bd-1b6643dba60b,bob.tattoo,premium,116,116,high,medium,3,namesilo,,,
+a112dee0-fbd3-4289-b9bd-1b6643dba60b,bob.tattoo,premium,116,116,medium,low,3,namesilo,,,22/09/2026 23:31
 04174a83-528d-4682-82ee-c213bab91422,multiplayer.tattoo,available,34.99,34.99,medium,low,11,namesilo,,,
 61ccf187-3de3-404a-ac0a-d38f7f713ec0,thiscoming.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
-e3a66be3-464a-4eda-b8c7-b8dd6ee62647,forward.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,
+e3a66be3-464a-4eda-b8c7-b8dd6ee62647,forward.tattoo,available,2.98,48.98,medium,low,7,namecheap,,,21/09/2026 20:55
 d07b7165-875d-4372-9fd1-1f21b216159e,very.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
 19da4b92-2f28-4810-99d5-1155dee5c6fe,heel.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,
 8d822bc5-68c3-4cf2-8010-9534e09f0c6c,standbehind.tattoo,available,34.99,34.99,low,low,12,namesilo,,,
@@ -180,7 +180,7 @@ d9913991-8b23-4793-9ae5-3e936088da92,profound.tattoo,available,34.99,34.99,high,
 d556b886-3b79-4311-8e6d-1d7ae8cfb127,scatty.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 965950d2-0d1a-4271-bf13-6802ab9aff85,paperback.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 590838df-84b9-4e11-8a76-01e03e41f025,howwouldiknow.tattoo,available,34.99,34.99,medium,low,16,namesilo,,,
-f0db8c4d-3a8b-428c-bc45-03500e6cdde3,option.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+f0db8c4d-3a8b-428c-bc45-03500e6cdde3,option.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,22/09/2026 02:42
 46e0d134-3eee-4cc9-a7c3-f395b9a4c17c,philip.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 1e9f0433-faef-4b9e-bec4-18266fc4e8f5,makethemostof.tattoo,available,34.99,34.99,high,low,16,namesilo,,,
 e04bf0b9-792f-46a4-8ed6-799d1b49971a,aboveboard.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
@@ -194,11 +194,11 @@ f5b6401c-202a-4eba-adb0-866cbfb6a28b,alaskan.tattoo,available,2.98,48.98,low,low
 d8ea2587-df1b-4b1d-a6c2-38e8bd663872,insteadof.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 8cb22e5d-bb97-4dae-a547-1135f4f4e4b4,speak.tattoo,available,48.98,,high,low,5,namecheap,,,
 3c7ab9cc-7ac1-49f7-a8d1-2d03c7ba3066,fasttravel.tattoo,available,34.99,34.99,high,low,11,namesilo,,,
-8936d1a7-5990-4cce-b33a-3dba076a0139,rocky.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
+8936d1a7-5990-4cce-b33a-3dba076a0139,rocky.tattoo,available,34.99,34.99,low,low,5,namesilo,,,23/09/2026 01:13
 9526790e-1b7c-4f35-89cf-10db271d0a5d,aloof.tattoo,available,2.98,48.98,low,low,5,namecheap,,,
 3164c7d8-4640-457d-ac13-847b609dfec3,reception.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 aac5d4b1-6918-45b9-8c58-02e552916cc6,twodozen.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
-265634b9-19b9-437f-be0b-c2392cbafe07,xxv.tattoo,premium,125,125,medium,low,3,name.com,,,
+265634b9-19b9-437f-be0b-c2392cbafe07,xxv.tattoo,premium,130,130,low,low,3,namecheap,,,21/09/2026 12:45
 9ec0715c-14e5-4c55-8f83-f84d38c08ca7,broad.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,19/09/2026 06:03
 52ad5a22-9978-46bb-8b76-45297b30f88a,notatall.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 e45c3cc7-92b0-4db3-8d30-166fb3c1f622,howto.tattoo,premium,116,116,high,low,6,namesilo,,,
@@ -210,7 +210,7 @@ df21d23a-5448-4f90-86c1-b5adeb29f426,patrisib.tattoo,available,2.98,48.98,low,lo
 33350bb4-6ff3-470a-8cf6-5b7df3d4a346,intheend.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 c728f8b1-820f-475d-a043-43c2cf368f50,selfish.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,
 ebb70f99-0685-4e4c-9053-ec5e7fe844d0,nitrous.tattoo,available,2.98,48.98,low,low,7,namecheap,,,08/08/2026 03:03
-25756580-4efb-4938-9764-8c0c059f1880,cyan.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
+25756580-4efb-4938-9764-8c0c059f1880,cyan.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,22/09/2026 22:59
 3df6160f-5cd6-46bb-9654-6aac5dfca69c,conspiracy.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 1e54a78e-b477-4824-84d0-d69c294f7788,redapple.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 46cabaa4-6edb-404c-a6ff-76c8a01533b4,allogeneic.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
@@ -261,7 +261,7 @@ ed40e464-3a87-4b9e-bb2a-7f5ecbb4e7ad,naturalperson.tattoo,available,34.99,34.99,
 62d24c3e-7d19-46b5-8f0e-84e39d0d53c6,howaboutthat.tattoo,available,48.98,,medium,low,14,namecheap,,,
 ad093d28-7c7d-4666-ad06-8256c5c06a22,atbest.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,
 af053010-5985-49eb-9523-42571386ed83,westend.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
-725308fb-5c69-4ccb-b87c-d3e29ab0e1d3,mass.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
+725308fb-5c69-4ccb-b87c-d3e29ab0e1d3,mass.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,21/09/2026 22:50
 a78d2072-1e1b-4f6a-bf74-af396b2cd849,room.tattoo,available,2.98,48.98,medium,low,4,namecheap,,,08/09/2026 08:37
 cf04d742-6b91-4004-a346-c233427b6600,forced.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
 50560e46-1066-4b41-a7f5-38becd2e2b9d,north.tattoo,resell,,,high,low,5,"GoDaddy.com, LLC",23/10/2025 02:20,23/10/2026 02:20,
@@ -283,7 +283,7 @@ f5c4b0d1-b83b-49b6-ab70-0895d43ae150,remotecontrol.tattoo,available,34.99,34.99,
 433e7b55-72c2-4629-9b60-ddff21a9e4ad,nutritive.tattoo,available,2.98,48.98,medium,low,9,namecheap,,,08/09/2026 09:04
 e81c810f-0cc5-4c13-84ad-debf5ac13dee,diskspace.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 92435857-8cb0-40ae-bc81-8cbee5266208,pivot.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
-9d053b27-a66a-4d04-bb3d-6672731b1f27,sterile.tattoo,available,48.98,,medium,low,7,namecheap,,,
+9d053b27-a66a-4d04-bb3d-6672731b1f27,sterile.tattoo,available,34.99,34.99,low,low,7,namesilo,,,22/09/2026 09:35
 a7c42097-4218-425e-bd71-6ec9be06b9b4,goup.tattoo,available,2.98,48.98,medium,low,5,namecheap,,,03/09/2026 14:22
 62e356e4-dc7c-4983-ae75-284173997f1f,turmeric.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,19/09/2026 15:28
 39332fbe-a5d0-411d-90de-7a5ba8859b2f,mainman.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
@@ -292,23 +292,23 @@ a7c42097-4218-425e-bd71-6ec9be06b9b4,goup.tattoo,available,2.98,48.98,medium,low
 ca036d95-b2d7-4335-993c-5cdd071ff464,clustered.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 042e3959-be16-409d-aca1-918fc03395db,give.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
 e5451a69-cc04-4738-88b8-e10d9f5271d3,country.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
-7145ded8-fb2c-4f17-8b55-a0da90ba4cbd,bluish.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+7145ded8-fb2c-4f17-8b55-a0da90ba4cbd,bluish.tattoo,available,34.99,34.99,low,low,6,namesilo,,,22/09/2026 22:47
 1cfe2e91-290b-47d8-8088-41ec4f4d9dd6,bloodclot.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 5aaa534d-33f3-4487-b43f-ddadd028d52a,snap.tattoo,available,34.99,34.99,high,medium,4,namesilo,,,
 6c45356a-f5b3-4b29-b6c6-930859e65567,dad.tattoo,available,,,high,low,3,,,,
 29b9e33d-75d6-4d40-83b4-b576c1e2566c,teastrainer.tattoo,available,34.99,34.99,high,low,12,namesilo,,,
-cdaf4232-f929-4452-89d7-558cd5676416,acute.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
-79d9921f-0d08-4e63-91e6-f9fd705ee5c3,cleared.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+cdaf4232-f929-4452-89d7-558cd5676416,acute.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,21/09/2026 16:39
+79d9921f-0d08-4e63-91e6-f9fd705ee5c3,cleared.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,21/09/2026 14:48
 f1da2483-62a0-4d94-a279-9a144010e300,medication.tattoo,available,48.98,,high,low,10,namecheap,,,
 0bfadfc6-51d1-448e-80ed-f3629a654dad,commenting.tattoo,available,48.98,,medium,low,10,namecheap,,,
 4535928b-7a61-4c06-a100-9228c33076bd,psychology.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 0b745373-74fe-405d-975c-7c64ab10623e,televisionchannel.tattoo,available,34.99,34.99,high,low,18,namesilo,,,
 38854d44-1f97-4200-bcc5-b05c002006fe,asopposedto.tattoo,available,34.99,34.99,medium,low,13,namesilo,,,
-2d4911b9-21f0-4844-9ee4-1452cb085f1a,manageable.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+2d4911b9-21f0-4844-9ee4-1452cb085f1a,manageable.tattoo,available,49.99,49.99,medium,low,10,name.com,,,21/09/2026 15:48
 bc5f446e-a6b7-4eb9-92a0-4d6ffc9dd6bb,airtight.tattoo,available,2.98,48.98,low,low,8,namecheap,,,
 5ebd7d02-17ba-442a-b5c7-54b38dd736ea,backup.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,20/09/2026 03:14
 f29c2181-023a-4b05-a25e-1218d9383e36,asyouknow.tattoo,available,34.99,34.99,medium,low,11,namesilo,,,
-ff81907c-679f-4810-967c-50f9004bd831,food.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,19/09/2026 10:31
+ff81907c-679f-4810-967c-50f9004bd831,food.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,23/09/2026 03:58
 89292088-8477-482c-b282-328713ab1641,turtlenecksweater.tattoo,available,34.99,34.99,high,low,18,namesilo,,,
 2742b7bc-caad-4718-bf95-cc197f18594f,incidentreport.tattoo,available,48.98,,medium,low,15,namecheap,,,
 eb4db203-e3a9-402b-bbd4-bb43ceb45389,aphetic.tattoo,available,2.98,48.98,low,low,7,namecheap,,,05/08/2026 23:12
@@ -333,7 +333,7 @@ ba81f71d-87f4-48c5-9bd9-7f7c489938aa,readfor.tattoo,available,34.99,34.99,low,lo
 2645f780-fc19-4ffd-89e8-a5552fc66186,soft.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
 805ada37-64c8-46d1-8ef1-e4c2873d2b54,manual.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
 8a923683-7628-414a-b520-d2becd6d8f1e,hockeyplayer.tattoo,available,48.98,,high,low,13,namecheap,,,
-a788623a-1dea-40ef-ab76-69b0faf2c727,bouncing.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+a788623a-1dea-40ef-ab76-69b0faf2c727,bouncing.tattoo,available,2.98,48.98,medium,low,8,namecheap,,,23/09/2026 01:19
 a091b55e-7460-4455-853a-8204fca53eae,pandora.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 3918ba1b-8309-43f3-8b66-66062287501c,beaked.tattoo,available,2.98,48.98,low,low,6,namecheap,,,09/08/2026 03:50
 4db985aa-ebcf-4bc4-898a-10d6cbf27135,beauteous.tattoo,available,2.98,48.98,low,low,9,namecheap,,,09/08/2026 05:58
@@ -393,9 +393,9 @@ a141c0cf-b6fd-45d6-801a-54ceac4f2564,cooperation.tattoo,available,48.98,,high,lo
 1297aeb6-1eff-4a7b-9ff6-7d9dc5ce0406,westbranch.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
 5573d36d-812f-4639-8612-7163391db5ae,fran.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,
 25fe67f3-dff8-4983-9a41-40686df532e4,oversight.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
-2927c685-6619-49ef-bbe3-f55091958ea5,billion.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+2927c685-6619-49ef-bbe3-f55091958ea5,billion.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,22/09/2026 20:43
 e9f7214d-9552-4713-9326-5b9acaeb61e5,tin.tattoo,premium,116,116,medium,low,3,namesilo,,,
-b9f2cec3-ada0-4f96-92e4-2cf58f07d5c6,alleged.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+b9f2cec3-ada0-4f96-92e4-2cf58f07d5c6,alleged.tattoo,available,34.99,34.99,low,low,7,namesilo,,,22/09/2026 01:19
 4bfd94a0-20ff-4d11-835e-324b6811591a,childporn.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 3915f26c-03f0-41d4-8837-e72e9fd81dcb,artesian.tattoo,available,2.98,48.98,low,low,8,namecheap,,,06/08/2026 22:39
 ebe48cae-c3ec-4cee-8a2e-c1d947ff95b7,plumpfor.tattoo,available,2.98,48.98,low,low,9,namecheap,,,08/08/2026 05:22
@@ -407,10 +407,10 @@ c83bc355-4b0d-4ff9-9a27-1e73c730b46e,facet.tattoo,available,34.99,34.99,high,low
 a2230112-4856-4572-a025-e8dc97575a60,wheezing.tattoo,available,2.98,48.98,low,low,8,namecheap,,,07/08/2026 09:25
 2472da97-50a8-4090-90fc-931209478ff4,save.tattoo,premium,116,116,high,low,4,namesilo,,,
 c3a4bad3-c15c-4e1a-b9b7-9f0f6d4d302f,butif.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
-47a4c319-39a7-47a4-a4f6-02527e590352,bad.tattoo,premium,116,116,high,medium,3,namesilo,,,
+47a4c319-39a7-47a4-a4f6-02527e590352,bad.tattoo,premium,116,116,medium,low,3,namesilo,,,22/09/2026 16:05
 efba4dfa-8994-4e13-95c1-8a17874f687a,gene.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,
 a5a3dad6-2a95-4a8f-baaf-43784e7da407,bacteremic.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 07:01
-b1291bd3-97b3-4860-92ce-4fb109ca3bd5,hunkydory.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+b1291bd3-97b3-4860-92ce-4fb109ca3bd5,hunkydory.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,22/09/2026 01:09
 0eb23286-5ab4-40b5-beb8-e63bdf89f622,ontheedgeof.tattoo,available,34.99,34.99,medium,low,14,namesilo,,,
 82d0c937-f4a4-465b-857a-1e16cd1e4bb7,ascendable.tattoo,available,2.98,48.98,low,low,10,namecheap,,,07/08/2026 00:35
 6fd0a57c-ef68-4e30-b62c-462baa3fe0d9,integral.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
@@ -424,7 +424,7 @@ b58c1618-9855-466d-81f7-6640897497c8,pearlwhite.tattoo,available,34.99,34.99,low
 a7feedc1-21bd-4b37-9706-a0b62b8a39eb,suffer.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
 349e510c-f8c6-4646-8c8d-c30773d6354a,businesstrip.tattoo,available,34.99,34.99,high,low,13,namesilo,,,
 fc2bff48-da1d-44f1-ab6d-e8acf0e2d81c,gay.tattoo,premium,116,116,high,medium,3,namesilo,,,
-526c06a6-774f-4e92-90ed-4312cf324893,equal.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
+526c06a6-774f-4e92-90ed-4312cf324893,equal.tattoo,available,2.98,48.98,medium,low,5,namecheap,,,21/09/2026 18:27
 8909646e-8a80-4cad-8b1a-9ea28e15ac4f,tax.tattoo,premium,116,116,high,medium,3,namesilo,,,
 ffeb571e-454d-4508-8d68-adf3af9936bd,withering.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 abd03e02-e407-46e7-82b2-5124ce0a057c,stepson.tattoo,available,48.98,,high,low,7,namecheap,,,
@@ -441,7 +441,7 @@ cea6cb8e-d87f-42b2-913e-3e3848d2edd4,enviable.tattoo,available,48.98,,high,low,8
 34bdf137-2b78-4fbb-bcbf-136b1cef70b7,seriously.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
 b6f6d0d1-b897-409f-8416-bb7539a2374d,barbeque.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
 9d14434a-d7d2-43a4-986b-68e1562fa5fa,ebay.tattoo,available,,,high,low,4,,,,
-838900fc-6778-48c9-888d-dc85fdcce647,forgiving.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
+838900fc-6778-48c9-888d-dc85fdcce647,forgiving.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,21/09/2026 14:52
 bf49d89a-72ba-4296-8b89-d19f3f9a1052,invitation.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 5629f638-d3fd-4b15-85d0-ccd66b062b76,aeonian.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 04aea45f-57d8-4203-a2aa-eb2d333822ab,produced.tattoo,available,34.99,34.99,low,low,8,namesilo,,,19/09/2026 16:32
@@ -462,8 +462,8 @@ bf173bc3-9915-46e6-9871-daeec5cf48e4,bantam.tattoo,available,2.98,48.98,low,low,
 1ecd5418-cc44-4298-9270-448bb307cb8f,alleviated.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
 723bb5dc-b323-4171-a4b7-b9c21bb01653,browse.tattoo,resell,,,high,low,6,"GoDaddy.com, LLC",23/10/2025 02:06,23/10/2026 02:06,
 3f9f972f-d5a5-4ffc-ad45-e268bd232d49,altaic.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
-977dfcf5-aef5-49c6-8bf9-bdbde4bfe2ae,tiny.tattoo,available,34.99,34.99,medium,medium,4,namesilo,,,
-c9d75402-7454-4d67-b282-50ff86d20861,genial.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+977dfcf5-aef5-49c6-8bf9-bdbde4bfe2ae,tiny.tattoo,available,2.98,48.98,low,low,4,namecheap,,,22/09/2026 17:13
+c9d75402-7454-4d67-b282-50ff86d20861,genial.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,21/09/2026 21:42
 44a6f6c0-2163-44a9-b2fb-f591ea322119,request.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 ffbf98d7-e547-4558-92c1-c10f58026102,hearable.tattoo,available,2.98,48.98,low,low,8,namecheap,,,07/08/2026 16:35
 81e47638-25c4-4012-962c-c04f2c49fc12,onec.tattoo,available,2.98,48.98,low,low,5,namecheap,,,
@@ -471,7 +471,7 @@ c34cbe42-8ea3-4c63-b609-38e9af352278,approach.tattoo,available,2.98,48.98,low,lo
 31c04ad9-9940-4c42-921e-af4a4a6b9a9a,weave.tattoo,available,48.98,,high,low,5,namecheap,,,
 ebb85b12-023f-4a16-bc13-16ea3309a170,grubby.tattoo,available,2.98,48.98,low,low,6,namecheap,,,09/08/2026 09:31
 7f44e8d1-b79a-4912-ba76-046b1eeb2a04,starter.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
-b89a8043-c43f-4b27-9750-2c3caa3adb9a,alltime.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+b89a8043-c43f-4b27-9750-2c3caa3adb9a,alltime.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 00:54
 e0d58008-fc55-4530-ae63-347a4bf8c236,pitfall.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,
 8c46b2a2-ba5c-4cfc-ba6d-234bbc1f6adc,senescent.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 f35c9573-a813-4180-a419-8890287a67be,concertroom.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
@@ -483,10 +483,10 @@ d4faddf5-7770-45d9-840c-2846ce78d4a7,diplomat.tattoo,available,34.99,34.99,high,
 5121d22c-f962-4be3-b929-b1d7dc339b1c,creek.tattoo,available,48.98,,high,low,5,namecheap,,,
 8b2ee3a5-b02d-44ec-a772-fe4db35a055f,tradeunion.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
 22031af1-1552-421a-a599-f6170caa879e,suv.tattoo,premium,116,116,high,low,3,namesilo,,,
-5d918754-7dbd-4457-989a-00d14c392a51,sensual.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,
+5d918754-7dbd-4457-989a-00d14c392a51,sensual.tattoo,available,34.99,34.99,low,low,7,namesilo,,,22/09/2026 04:34
 5b016ba7-821c-47c1-a026-03ecce5d32ea,canada.tattoo,available,,,high,low,6,,,,
 a7af31dd-72e0-4a23-871b-be9b3a8f8d19,soundout.tattoo,available,34.99,34.99,low,low,9,namesilo,,,
-7d518ada-d7fa-425c-a371-31701faf2197,trio.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
+7d518ada-d7fa-425c-a371-31701faf2197,trio.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,21/09/2026 13:05
 50a4ddc1-284c-4b60-bb1e-78caac677cd8,afghan.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 46dfee14-812d-4cc8-9aa3-083ddd3f7e09,domesticworker.tattoo,available,48.98,,high,low,15,namecheap,,,
 1653e942-01ae-486c-be75-0ee8e041a0ce,turn.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
@@ -508,7 +508,7 @@ cce3870e-44cb-40ee-a0ac-0558bbb01255,thinktwice.tattoo,available,34.99,34.99,med
 b8344143-574a-4a18-b8ac-c6bee63b6ea7,turtleneckcollar.tattoo,available,34.99,34.99,high,low,17,namesilo,,,
 a550a107-4c7c-4382-8ff3-ddd6049b2950,fleshly.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 e3428944-6da5-4de4-84f2-eabb9394c5fe,redmeat.tattoo,available,34.99,34.99,low,low,8,namesilo,,,
-3c37bd14-ffbc-419d-a252-c4cc6f8ca07a,banal.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
+3c37bd14-ffbc-419d-a252-c4cc6f8ca07a,banal.tattoo,available,34.99,34.99,low,low,5,namesilo,,,22/09/2026 16:37
 056a281a-24a5-45fc-8cf3-d0be1069da5f,old.tattoo,premium,125,,high,low,3,name.com,,,
 3433b937-81ea-415b-9bc7-8c3cad2e759f,playacting.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
 dc92f005-d8e4-42fd-b1ca-b74d4e51605a,spirit.tattoo,available,,,high,low,6,,,,
@@ -518,7 +518,7 @@ bf365495-47dc-4c6d-8936-d944dcf5ff94,communal.tattoo,available,34.99,34.99,mediu
 8da1be4a-b694-4f0a-ba5d-ba9b6a9d1b08,panes.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
 8859fb24-056b-4e9e-989b-7d69f1a6cf05,block.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
 2f16f9d0-3280-429a-a728-388fd49be71b,autogamous.tattoo,available,2.98,48.98,low,low,10,namecheap,,,07/08/2026 20:05
-a7a361b4-0861-44ed-838f-da2f79a1ce4a,prejudice.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
+a7a361b4-0861-44ed-838f-da2f79a1ce4a,prejudice.tattoo,available,2.98,48.98,low,low,9,namecheap,,,22/09/2026 20:16
 e927cfde-63fb-4b7d-ab42-6d23c34c5e92,bacterioid.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 07:17
 a81adcdc-eb73-4bb4-ad04-b95bb387dddc,victim.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
 f771a89a-fcfd-41a9-be35-5fb522b4189c,forge.tattoo,available,34.99,34.99,medium,medium,5,namesilo,,,
@@ -540,7 +540,7 @@ aa62e002-5ce6-469f-9da2-159cb77bb495,presssecretary.tattoo,available,34.99,34.99
 e141c725-786d-475a-9de8-8b4aff1e7acd,investmentbanking.tattoo,available,34.99,34.99,high,low,18,namesilo,,,
 0fd8e888-cea6-4bc1-9080-2e0af656be74,aplitic.tattoo,available,2.98,48.98,low,low,7,namecheap,,,06/08/2026 00:35
 88fe0a77-0537-4bb5-8c6a-ba2e4ee46eb4,beetle.tattoo,available,2.98,48.98,low,low,6,namecheap,,,09/08/2026 08:17
-177ea7be-7614-4bd2-8128-68408f021498,absorbed.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+177ea7be-7614-4bd2-8128-68408f021498,absorbed.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,21/09/2026 14:58
 16505554-846b-41d2-bc11-f8b2de0bee16,loved.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
 73eaac58-2c16-4a42-b9cd-8eb80fe981ca,profitmargin.tattoo,available,48.98,,high,low,13,namecheap,,,
 3ceee146-6cda-4133-a998-2d4eb5b7a65e,kilogram.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
@@ -565,13 +565,13 @@ d4105d1d-2425-4907-a8ed-765a093ed7ff,beadyeyed.tattoo,available,2.98,48.98,low,l
 e788669f-2693-4b49-bd13-581638b10014,surely.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 62ee5ba0-5f99-43d9-b0f6-ab3541799b75,jellybaby.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 979326db-2fc8-4b38-825f-6a7a274814d7,intrigue.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-a81b305c-dd5a-4d74-9796-bde43ffbff60,angelic.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+a81b305c-dd5a-4d74-9796-bde43ffbff60,angelic.tattoo,available,34.99,34.99,medium,low,7,namesilo,,,22/09/2026 04:25
 e1532782-812e-4a2f-8e23-de6f51676efe,susan.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
 6ffa65db-c052-48f4-9c90-2cb4232ce174,thousandth.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
 65b9064f-d601-475d-9e58-6bf8b210d1bf,sportsbar.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 e21c8176-f768-49b0-b531-05f2a5636505,surfaces.tattoo,available,34.99,34.99,low,low,8,namesilo,,,
 ff4a4ef9-091f-49ed-86c1-e03dd28f70fc,tasks.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
-26109f6e-af2d-4332-bd12-5af93ea7da9b,education.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 06:14
+26109f6e-af2d-4332-bd12-5af93ea7da9b,education.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,23/09/2026 04:28
 ac6f62d7-3e33-4e87-9e20-b5341758938a,nostrilhair.tattoo,available,48.98,,low,low,12,namecheap,,,
 85ef48f3-1a37-4439-9410-251cb9fec5ae,abbatial.tattoo,available,2.98,48.98,low,low,8,namecheap,,,
 c1e3472d-b221-4319-94d8-0e3151122883,top.tattoo,premium,116,116,high,medium,3,namesilo,,,
@@ -598,7 +598,7 @@ fede7f49-5ca5-45c2-a364-32383daf65e7,finished.tattoo,available,34.99,34.99,mediu
 38646d0c-e92b-4e89-bd67-426951b356e5,alcoholabuse.tattoo,available,34.99,34.99,medium,low,13,namesilo,,,
 96737ed6-b311-4933-9f83-4a3d6ad6c19c,pretoria.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 086cf831-686d-494e-9071-e321a10369e0,younggirl.tattoo,available,48.98,,low,low,10,namecheap,,,
-0614772d-1043-425c-8a82-d365797adb3e,fond.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
+0614772d-1043-425c-8a82-d365797adb3e,fond.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,21/09/2026 21:45
 ce63cde8-77f7-4354-aad3-dfbcd9ba12cb,vampire.tattoo,available,,,high,low,7,,,,
 ae70d63d-4154-466f-903b-62b086664919,oarblade.tattoo,available,48.98,,medium,low,9,namecheap,,,
 a7d60970-7dd3-43d9-955b-e5cb0a77c21e,provider.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
@@ -614,10 +614,10 @@ d744377c-6ba4-4211-b627-17d4a8039139,harold.tattoo,available,34.99,34.99,high,lo
 dcec506b-d5d6-4064-8124-db0d4f7fcaa9,oldgeezer.tattoo,available,2.98,48.98,low,low,10,namecheap,,,05/08/2026 19:25
 a89838c3-04eb-4f13-8738-5834758348bd,invalid.tattoo,available,34.99,34.99,high,high,7,namesilo,,,
 40dbcb66-a7b1-4004-9a00-b96cda5d188c,scornful.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
-71ae7262-41d1-4917-85cf-ff275d3074ac,aboutship.tattoo,available,48.98,,high,low,10,namecheap,,,
+71ae7262-41d1-4917-85cf-ff275d3074ac,aboutship.tattoo,available,48.98,,medium,low,10,namecheap,,,
 a5ecfe5e-9464-4cab-8cd5-1adacaac2dbe,amnic.tattoo,available,2.98,48.98,low,low,5,namecheap,,,
 fafe5354-e840-47ab-9982-82f5ce386204,continued.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
-2055e62d-6e59-4808-b220-e8553702ffeb,boundary.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
+2055e62d-6e59-4808-b220-e8553702ffeb,boundary.tattoo,available,34.99,34.99,low,low,8,namesilo,,,23/09/2026 01:32
 aefbd884-a980-4142-9ba9-012bc1fcd94a,sunroof.tattoo,available,48.98,,high,low,7,namecheap,,,
 1ccb565f-758b-4dbb-b529-6ead5b09f1a7,suspense.tattoo,available,48.98,,high,low,8,namecheap,,,
 d1a2e6ad-6f4e-471c-b060-3476dd3c60f1,aquiline.tattoo,available,2.98,48.98,low,low,8,namecheap,,,06/08/2026 11:01
@@ -627,7 +627,7 @@ aab05a31-956d-4510-a923-0b875530ce85,climbable.tattoo,available,2.98,48.98,low,l
 f3ee999b-d180-4eee-bf5b-3851f0281368,carriage.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 7abf9d1a-5bcf-4c18-8bf6-656c156470cd,affected.tattoo,available,2.98,48.98,low,low,8,namecheap,,,
 0178e272-b440-4e24-a387-6f176927b2f9,hydroponic.tattoo,available,2.98,48.98,low,low,10,namecheap,,,06/08/2026 10:34
-b22f351c-57bc-44cf-82d1-b669ac7beec2,alterable.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
+b22f351c-57bc-44cf-82d1-b669ac7beec2,alterable.tattoo,available,34.99,34.99,low,low,9,namesilo,,,22/09/2026 02:18
 0a2df1ec-8e77-4284-a886-f618ca443354,discussion.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
 dec7bf9d-e322-4303-9950-6c39ae8b5378,araceous.tattoo,available,2.98,48.98,low,low,8,namecheap,,,06/08/2026 11:36
 a31ca7ba-6795-44e2-b6c4-901253a7493d,corny.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
@@ -636,7 +636,7 @@ d57f913d-f87c-4da8-9dfb-282a0c67b3ab,nowornever.tattoo,available,34.99,34.99,low
 331b41a8-8233-41e2-9136-4d9db8af6abb,medicalreport.tattoo,available,34.99,34.99,medium,low,14,namesilo,,,
 f310f130-66af-4304-8749-5095a45a576d,actable.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 2925495d-b83f-46c7-9435-8a5f42f6ff52,alopecic.tattoo,available,2.98,48.98,low,low,8,namecheap,,,
-881fc917-d316-4c17-856c-fea92c5f1e48,edge.tattoo,available,34.99,34.99,high,medium,4,namesilo,,,
+881fc917-d316-4c17-856c-fea92c5f1e48,edge.tattoo,available,34.99,34.99,low,low,4,namesilo,,,23/09/2026 01:34
 76e696d8-9e77-40e0-81e9-186215e1dd3c,queenelizabeth.tattoo,available,34.99,34.99,high,low,15,namesilo,,,
 ed16ffa9-e6a7-4bcf-bac1-b1579d2ba521,bakinghot.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 08:52
 79d91baf-e4e9-4b00-b868-7f1527c4c3d2,takeawife.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
@@ -655,7 +655,6 @@ aa6b3ecf-49c9-4224-9d8c-b391db5f55e6,whatittakes.tattoo,available,34.99,34.99,lo
 a5cf4f0e-8d9e-4aad-b682-8b818a06231b,howyousay.tattoo,available,34.99,34.99,medium,low,11,namesilo,,,
 76a734f5-db46-4448-8872-b77dedffe3b3,bedridden.tattoo,available,2.98,48.98,low,low,9,namecheap,,,09/08/2026 07:02
 b5c103ec-167d-4f77-ae55-f29ddfcbfd6f,haveseenthisfilm.tattoo,available,34.99,34.99,medium,low,19,namesilo,,,
-afef50e9-2362-492b-9416-b441248ca758,overseas.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 46fa62e5-db57-4a73-a690-a2a5681f1fd4,beating.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 f1f79a87-6f89-4c4b-bbed-3ec8a5356829,australiaday.tattoo,available,34.99,34.99,high,low,13,namesilo,,,
 6be54c9f-97ca-4cdf-8876-5601dc9f4aba,jacobs.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
@@ -666,13 +665,13 @@ c4402b75-f9be-49f0-9676-0d438ba2d367,documentation.tattoo,available,34.99,34.99,
 52c0376d-d13a-4bb3-a413-c2e1f603c9bd,chance.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 78452881-01eb-44a9-9699-87be5766008d,chips.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
 1b68175d-de50-4e75-8a19-1407f58743e1,covert.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
-bf0e69dd-6b48-4b60-9351-562344094546,television.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,20/09/2026 02:37
+bf0e69dd-6b48-4b60-9351-562344094546,television.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,23/09/2026 06:07
 5a77d072-2784-4bb5-803b-b059a7a76900,pocket.tattoo,available,34.99,34.99,high,medium,6,namesilo,,,
 4f128b07-1212-404c-a0b3-e063a8a7e28e,critique.tattoo,available,48.98,,high,low,8,namecheap,,,
 88614d31-59a6-4d27-9beb-d4c13cd7188b,damascus.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 fce24616-5ce5-4b77-affb-d7f6c1814a47,aweless.tattoo,available,2.98,48.98,low,low,7,namecheap,,,08/08/2026 00:50
 d8206d2b-05c5-4af1-b719-28eba00b9872,amusing.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
-0b8068b0-d5be-4ecb-a238-42804e9f7303,photo.tattoo,available,,,high,low,5,,,,
+0b8068b0-d5be-4ecb-a238-42804e9f7303,photo.tattoo,premium,116,116,medium,low,5,namesilo,,,23/09/2026 06:22
 b2c8519b-ec4d-466c-9332-88e9c0f33cc0,coordinate.tattoo,available,2.98,48.98,medium,low,10,namecheap,,,08/09/2026 03:35
 4dea18b0-4f04-4283-8a6f-b4fd5cd6f179,embrace.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 1028925f-658a-4b67-b14e-57528c9825d4,singapore.tattoo,available,,,high,low,9,,,,
@@ -685,7 +684,7 @@ ce9ecc21-14af-48f9-89ce-9a0b8550a4ab,hindend.tattoo,available,2.98,48.98,low,low
 246d9006-cacb-4f91-8bcb-d85fb68e9d81,generalizeddisease.tattoo,available,34.99,34.99,low,low,19,namesilo,,,
 83fa66a3-96ff-457d-b0d5-e996f2f0924b,superb.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 881ef29d-9939-4a31-a5af-a4cf11b12b3e,famous.tattoo,available,,,high,high,6,,,,
-c9cab47a-d3db-48f0-a0b3-d07d957755d1,deadly.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
+c9cab47a-d3db-48f0-a0b3-d07d957755d1,deadly.tattoo,available,34.99,34.99,low,low,6,namesilo,,,22/09/2026 16:43
 da9940a0-40af-40a4-a118-335df2b95f7a,agitative.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 c173bced-137f-4ed8-a55c-0ce26e34ee61,sugar.tattoo,available,48.98,,high,low,5,namecheap,,,
 e465c794-2c97-48d7-b013-4e86124af5ce,exhibit.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
@@ -734,7 +733,7 @@ a912e966-6c54-4892-9916-ba0d99c22359,volume.tattoo,available,34.99,34.99,high,lo
 cf9a5c26-4454-4f67-b719-1c6f1491c07a,flack.tattoo,available,2.98,48.98,low,low,5,namecheap,,,
 a8c4b57d-75d8-4e62-8006-d1d2778e0c14,offhanded.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 ab1caede-faed-4747-8b20-dae80b3f8bfc,seized.tattoo,available,48.98,,medium,low,6,namecheap,,,
-ac63bc3e-60a7-488e-836d-78c9d4439914,arithmetic.tattoo,available,48.98,,high,low,10,namecheap,,,
+ac63bc3e-60a7-488e-836d-78c9d4439914,arithmetic.tattoo,available,34.99,34.99,low,low,10,namesilo,,,22/09/2026 07:53
 f39c2f08-39bb-4014-bba4-bcc37c183fb1,longest.tattoo,available,48.98,,medium,low,7,namecheap,,,
 02a83c0f-d1ec-4d61-be5f-6fa08dec10de,glory.tattoo,resell,,,high,low,5,"GoDaddy.com, LLC",23/10/2025 02:33,23/10/2026 02:33,
 03ad0c4a-f3fa-475e-87d5-9c9c92e399f2,calf.tattoo,premium,116,116,high,low,4,namesilo,,,
@@ -756,7 +755,6 @@ e254bf9c-fbf2-4c75-bbfb-5f7cb909fbdb,estado.tattoo,available,48.98,,high,low,6,n
 4df209b2-18fb-47b7-b951-302c406b6b16,gave.tattoo,available,34.99,34.99,medium,low,4,namesilo,,,
 c6304583-cfe2-493b-91d4-0b79bd5a8cce,familyrestaurant.tattoo,available,34.99,34.99,high,low,17,namesilo,,,
 2f3f08c7-1ced-43ae-951c-cdb97c7f2199,onehalf.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
-0872c17e-7fa3-4c4f-91a6-290ea9c9e05f,beat.tattoo,resell,,,high,low,4,"GoDaddy.com, LLC",23/10/2025 02:20,23/10/2026 02:20,
 74e5c204-9c24-400b-bfb1-8c906edf3cd6,plane.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
 eca9c115-1566-4d32-94f5-cdaf218e5575,upper.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
 c9a86a7c-b66b-4e9e-afa1-643b564609b8,simultaneously.tattoo,available,34.99,34.99,low,low,14,namesilo,,,
@@ -777,7 +775,7 @@ ec205fab-dd12-47de-b209-b4b2917dfd1b,apractic.tattoo,available,2.98,48.98,low,lo
 4d6f3f96-c779-46f5-9ba2-45cb3c356e7f,pervert.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 796e279a-31cc-42b8-822e-b288d950dab5,aerated.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 36f76b02-230c-4247-931e-acc7cebf4231,amygdaloid.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
-0647689e-58b0-4491-bb00-d40cd0ab0880,creature.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
+0647689e-58b0-4491-bb00-d40cd0ab0880,creature.tattoo,available,34.99,34.99,low,low,8,namesilo,,,22/09/2026 04:42
 88367575-9899-419f-ab49-2f9f85fcde5a,keepcompany.tattoo,available,34.99,34.99,high,low,12,namesilo,,,
 7af56620-8e8f-4f93-b9e1-01b66f331ee4,lego.tattoo,available,34.99,34.99,high,high,4,namesilo,,,
 6fc593a2-d8a3-4e8f-810c-f347019e39a6,attender.tattoo,available,2.98,48.98,low,low,8,namecheap,,,07/08/2026 15:17
@@ -802,12 +800,12 @@ c4d60d0b-0444-4777-b9da-b285ad1337fc,prudent.tattoo,available,34.99,34.99,high,l
 74e9589b-9a3f-4f81-a073-6cd3ae044d32,really.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
 018a842d-12a4-4e40-b81b-a9468398ac21,chocolatemilk.tattoo,available,34.99,34.99,low,low,14,namesilo,,,
 411bdce6-1358-474d-bd5a-34b79140aa8b,seeingas.tattoo,available,48.98,,medium,low,9,namecheap,,,
-d4cb128a-ade9-45b9-8961-ba4223ae9488,adaptive.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+d4cb128a-ade9-45b9-8961-ba4223ae9488,adaptive.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,21/09/2026 16:55
 16d1b2d2-a2f7-4020-875c-0ddb929ab131,absorbable.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
 ca1781fd-23ef-498b-b1a0-8937302cec5a,solely.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 1af0ec74-a2d2-4245-9dd1-b22cdf37f8aa,aftuh.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
 60a441b7-f51f-4945-9e58-94ab2bb8c664,tightfitting.tattoo,available,34.99,34.99,medium,low,13,namesilo,,,
-d3f4bd10-d8aa-4c6f-be7a-bf19df80b03d,reliable.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+d3f4bd10-d8aa-4c6f-be7a-bf19df80b03d,reliable.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 13:45
 4e7584be-4138-459a-8a4e-84972e4cb8f2,obsessive.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 7cb26b4c-03e7-48cf-a17e-2ff870a52666,analyst.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 52fa61fa-c9c7-4fc4-acbd-cfa666d077a0,activity.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
@@ -823,7 +821,7 @@ afb65f3a-5d08-4b64-8ddc-6607b77e191e,mobiletelephone.tattoo,available,34.99,34.9
 8d114f75-5177-4123-90ad-4d9de0b405de,passinggrade.tattoo,available,48.98,,medium,low,13,namecheap,,,
 97ffb5d9-ab67-472e-bab6-84acb004917f,mum.tattoo,available,,,high,low,3,,,,
 6d94fe16-61a7-4d95-b4c9-e1867e6195de,ass.tattoo,premium,116,116,low,low,3,namesilo,,,09/08/2026 12:05
-ea95abfe-ae71-4c82-bec2-de62de3a2e69,bluegreen.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+ea95abfe-ae71-4c82-bec2-de62de3a2e69,bluegreen.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,22/09/2026 22:55
 7a26de8e-7a21-4da9-980c-ffa5dd42455a,sailor.tattoo,available,,,high,low,6,,,,
 22130773-b49e-4f7a-9ed0-f3c8f52a6f05,streetfighter.tattoo,available,48.98,,low,low,14,namecheap,,,
 4de045d3-1d64-471a-a952-a41e05ca0f60,spacious.tattoo,available,48.98,,medium,low,8,namecheap,,,
@@ -831,12 +829,12 @@ ea95abfe-ae71-4c82-bec2-de62de3a2e69,bluegreen.tattoo,available,34.99,34.99,high
 97420053-7b07-4fa6-910d-3871387ec7e0,annulated.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 80ceb191-4fba-460c-8cad-4b6570f713a1,enough.tattoo,available,48.98,,high,low,6,namecheap,,,
 db31b446-15c4-4a2c-a8f5-fc039c6c2f5c,quaternion.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
-d810e61c-c28f-4c9a-b01b-439af66a6265,gripping.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+d810e61c-c28f-4c9a-b01b-439af66a6265,gripping.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,21/09/2026 15:05
 a218ea3a-4762-4129-b466-24d4f6e0a8ae,beefy.tattoo,available,2.98,48.98,low,low,5,namecheap,,,09/08/2026 07:49
 b88f2fc8-aeb3-41fa-98ce-4ba3e002a0ae,hide.tattoo,premium,116,116,high,low,4,namesilo,,,
 9e2ed774-fb5f-4ec8-929a-413a55a21666,enervated.tattoo,available,2.98,48.98,low,low,9,namecheap,,,07/08/2026 09:21
 3fb04bb8-4b7e-4a7d-8066-748e3d33e3cc,tabletennis.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
-084fc9ff-78cb-4e89-901d-e4ac1a50a673,additional.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+084fc9ff-78cb-4e89-901d-e4ac1a50a673,additional.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,21/09/2026 17:14
 eaf22857-7f28-4cfb-8bf8-1dce075bce07,lxxxvii.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 de98dfd2-e889-42ba-94bd-a38e0db4ba9f,commonera.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
 231274d5-e36f-4e21-a478-8a0b3bbe375d,stability.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
@@ -847,7 +845,7 @@ fd59211c-9d2e-46ff-9204-d820143352a5,disclosure.tattoo,available,48.98,,medium,l
 232a2272-0509-4c96-98c8-9b9e696220dc,layer.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,
 703ef81e-a57b-4b63-8ccf-82fe185275f4,abnaki.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 513f5ace-769a-41be-8653-b258843da076,annoy.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
-52a27d21-6d9c-4225-8d2d-959aa26ad0a0,abouteast.tattoo,available,48.98,,medium,low,10,namecheap,,,
+52a27d21-6d9c-4225-8d2d-959aa26ad0a0,abouteast.tattoo,available,48.98,,low,low,10,namecheap,,,
 2b9c26eb-8886-4cb5-b149-7ea48722b2b0,deviant.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 a2e848cf-2e60-4921-93f0-8b2f0fd90c49,royalpurple.tattoo,available,34.99,34.99,low,low,12,namesilo,,,
 c61865fc-5354-42e7-b7c5-a1970e91cd60,auxetic.tattoo,available,2.98,48.98,low,low,7,namecheap,,,07/08/2026 21:28
@@ -858,7 +856,7 @@ c61865fc-5354-42e7-b7c5-a1970e91cd60,auxetic.tattoo,available,2.98,48.98,low,low
 08b42171-908b-4a71-b878-0ccad8532c48,cometoahead.tattoo,available,48.98,,medium,low,14,namecheap,,,
 fca8a954-ec83-477e-a7bc-ef4b2ae92af4,this.tattoo,available,34.99,34.99,high,medium,4,namesilo,,,
 ba575a67-40c9-44c0-b4e9-9713fd07dce1,callfor.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-a10c7b0c-1b32-4325-901f-c7b3633069b8,sovereign.tattoo,available,34.99,34.99,high,medium,9,namesilo,,,
+a10c7b0c-1b32-4325-901f-c7b3633069b8,sovereign.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,22/09/2026 14:14
 e1892d8f-6277-4709-875f-03389640920c,relate.tattoo,available,2.98,48.98,low,low,6,namecheap,,,07/08/2026 07:03
 07a33b8e-2972-4d18-aece-fa403a8798a8,curry.tattoo,available,48.98,,high,low,5,namecheap,,,
 7582c010-af3f-47f8-8cee-6c3c20ef831f,reflexively.tattoo,available,34.99,34.99,low,low,11,namesilo,,,
@@ -876,7 +874,7 @@ e9a9cad3-e42b-470a-8cd8-b3c888996874,secured.tattoo,available,34.99,34.99,high,l
 038c846e-06f1-46ae-9990-96b2874843b3,fish.tattoo,premium,116,116,high,low,4,namesilo,,,
 8848a048-727d-42ff-8fd4-d7b5cefaaae9,adipose.tattoo,available,2.98,48.98,low,low,7,namecheap,,,
 88348762-303e-4076-bc8d-55d10554a8fb,inspirational.tattoo,available,34.99,34.99,high,low,13,namesilo,,,
-a27eac67-ec08-4dc3-a9a0-cdc9cfeda17d,unreal.tattoo,available,48.98,,medium,low,6,namecheap,,,
+a27eac67-ec08-4dc3-a9a0-cdc9cfeda17d,unreal.tattoo,available,34.99,34.99,low,low,6,namesilo,,,22/09/2026 09:00
 8a588451-ff46-4d18-852d-89a9dec15b05,mothahfuckah.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
 e065004f-fe23-4c71-acf8-780aea9185ae,totaled.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 09bf7df5-83db-4e00-be5d-678332620e44,earmark.tattoo,available,2.98,48.98,low,low,7,namecheap,,,06/08/2026 09:08
@@ -884,13 +882,13 @@ efffc868-e0aa-4fff-b05d-571666366217,achromous.tattoo,available,2.98,48.98,low,l
 0c613ef2-421e-4343-b69a-3f7b078f349d,godutch.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 f6f9d8e9-218d-4b6f-ad92-e3e2e23b9d8e,firstrate.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
 62b972e1-189c-4885-9793-f3baf5500265,closeinon.tattoo,available,34.99,34.99,high,low,11,namesilo,,,
-fb58f928-bad1-4bcf-82b2-ca044ff8b101,brief.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
+fb58f928-bad1-4bcf-82b2-ca044ff8b101,brief.tattoo,available,34.99,34.99,medium,low,5,namesilo,,,21/09/2026 13:42
 8bf0d1aa-6b03-4d36-8f89-209dacb1c0c2,graywolf.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 3fc154a1-f696-4850-8d6f-8d71621cc5cf,bridges.tattoo,available,48.98,,high,low,7,namecheap,,,
 0026d80f-fcea-4314-aca5-a0a1acc6daac,cows.tattoo,available,48.98,,medium,low,4,namecheap,,,
 008f3a18-f9a8-4f96-b76e-2cf5015b60b5,job.tattoo,available,,,high,low,3,,,,
 b5a280e0-027b-4dc9-8c05-6c6e5981bdb4,customize.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
-a624cf08-18af-4c4f-a3f7-0a7d12062914,stunning.tattoo,available,48.98,,high,low,8,namecheap,,,
+a624cf08-18af-4c4f-a3f7-0a7d12062914,stunning.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 08:34
 e0b2a6d0-ac1e-4d7c-b794-78ea2c7537e7,propose.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 9ae10fb2-f64a-4df6-a464-1ed7cafeacb9,massive.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 6206e473-66b8-4ee6-bc4d-11b064a62649,besides.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
@@ -903,7 +901,7 @@ c2945bf8-614e-42b5-a31a-68fbe8bf373d,luncheonsausage.tattoo,available,34.99,34.9
 f6ee9e53-5239-41e9-85b2-49297f09df5b,poisoning.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
 48c23575-1897-4325-88df-6033b24b7241,awarding.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
 5dc5c7f9-3308-45c8-a814-d67dcd36aec6,buying.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
-94d66b46-0207-4d97-8a98-0eea3c96fcb6,astonished.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,
+94d66b46-0207-4d97-8a98-0eea3c96fcb6,astonished.tattoo,available,34.99,34.99,low,low,10,namesilo,,,22/09/2026 03:35
 86106ac6-9427-45b5-8af8-329255ba2c6f,actively.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 0e43560e-5914-4eb2-97f2-5edda48891df,closeofbusiness.tattoo,available,34.99,34.99,high,low,17,namesilo,,,
 71854f8b-12a3-4f81-b413-91971c121cad,atonal.tattoo,available,2.98,48.98,low,low,6,namecheap,,,07/08/2026 13:46
@@ -927,7 +925,7 @@ bb7203e2-2d04-4c96-a25d-d65760cf7750,solve.tattoo,available,34.99,34.99,high,low
 e79e91c3-1c35-474e-a2cc-6a3059d9d658,scientist.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 f66f2e0d-f537-4c80-9b1d-8650ae955f6f,policeofficer.tattoo,available,48.98,,high,low,14,namecheap,,,
 2bd129d7-d2d2-4331-b291-69008afc5bb9,toiletpaper.tattoo,available,34.99,34.99,high,low,12,namesilo,,,
-67a89fb8-35ad-40dc-94df-afe58b8aed01,aggressive.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+67a89fb8-35ad-40dc-94df-afe58b8aed01,aggressive.tattoo,available,34.99,34.99,medium,low,10,namesilo,,,21/09/2026 22:59
 ee31aef9-d7ca-4ca4-8228-e9cc7f0b14d1,supermarket.tattoo,available,34.99,34.99,high,low,11,namesilo,,,
 d6b62f8b-ab29-4eec-99e8-e9c98e34d75d,inaway.tattoo,available,48.98,,medium,low,8,namecheap,,,
 b4215066-ce58-4b27-a557-c046e8a0aa48,washington.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
@@ -943,14 +941,14 @@ e7cb6812-7926-4aa7-b017-aa55558e4b85,polonecksweater.tattoo,available,34.99,34.9
 e8bf9cd5-daa9-42c1-badb-5a2c0919d451,abasic.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 d98e68f0-c0aa-4f0d-8bc8-386172ed1555,soup.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
 af69685d-a91d-4c70-bec0-90b58cfd5296,cautionary.tattoo,available,2.98,48.98,low,low,10,namecheap,,,
-917d5f25-795e-49b4-8746-0f902e897bf7,late.tattoo,available,34.99,34.99,high,low,4,namesilo,,,
+917d5f25-795e-49b4-8746-0f902e897bf7,late.tattoo,available,2.98,48.98,medium,low,4,namecheap,,,22/09/2026 19:16
 9c4712a5-e701-48c6-b1a4-86a1bd40cec8,markets.tattoo,available,34.99,34.99,low,low,7,namesilo,,,19/09/2026 05:44
 3407e009-e23a-49c8-951d-89927ecbe669,lookinto.tattoo,available,34.99,34.99,high,low,9,namesilo,,,
 56069c9c-1f3e-4218-ae02-b6ca58442012,dankmeme.tattoo,available,48.98,,high,low,9,namecheap,,,
 b8b2f08f-ef18-4030-828f-5b0f956952b1,afflicted.tattoo,available,2.98,48.98,low,low,9,namecheap,,,
 19080691-ef1c-42fe-a5d5-8ee49198be1c,descend.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
 d1678414-15ee-40f1-b648-cf0a6f62ad61,mopeabout.tattoo,available,34.99,34.99,low,low,10,namesilo,,,
-cfa8ffb4-56d9-493c-aed4-df4346cc3eaf,auditory.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
+cfa8ffb4-56d9-493c-aed4-df4346cc3eaf,auditory.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 12:39
 313db249-7f0e-4d30-a3ca-01e357b699a6,clowning.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 04f11e12-25d9-4d38-8a2f-cc27bbbfa395,raisehell.tattoo,available,34.99,34.99,low,low,10,namesilo,,,
 38bb4cce-7e09-462f-9ab0-d0738b57634b,grandma.tattoo,available,48.98,,high,low,7,namecheap,,,
@@ -962,12 +960,12 @@ b15889ae-067d-4fe6-b9f8-be0b94fae34b,urban.tattoo,available,,,medium,low,5,,,,
 78f0369e-b09e-4b33-b77c-2396c4127035,granting.tattoo,available,48.98,,high,low,8,namecheap,,,
 d46ea71b-a35b-4434-a6d1-f6495a9e3a49,particles.tattoo,available,34.99,34.99,low,low,9,namesilo,,,
 64ddd614-968d-403c-b726-8d2b8be379f7,oilterminal.tattoo,available,34.99,34.99,medium,low,12,namesilo,,,
-7ee2fe95-d43f-4626-a505-8865e76ff80a,passon.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
+7ee2fe95-d43f-4626-a505-8865e76ff80a,passon.tattoo,available,2.98,48.98,low,low,7,namecheap,,,21/09/2026 20:29
 3b33369e-13de-4cb6-9035-7398703a57ca,chanukkah.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
-50fbc683-3bf1-49da-a410-a091d7bd29ed,wiz.tattoo,premium,125,125,high,low,3,name.com,,,
+50fbc683-3bf1-49da-a410-a091d7bd29ed,wiz.tattoo,premium,130,130,medium,low,3,namecheap,,,21/09/2026 18:16
 bbce5cd6-57b7-4fad-8134-f7899827aa88,pop.tattoo,available,48.98,,high,medium,3,namecheap,,,
 c9e2570b-68dc-4a3d-a80c-5cf754f14744,iso.tattoo,available,,,high,low,3,,,,
-9d132037-0642-44f7-872b-a775a00cc977,fierce.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+9d132037-0642-44f7-872b-a775a00cc977,fierce.tattoo,available,34.99,34.99,low,low,6,namesilo,,,23/09/2026 01:48
 76740e59-70fe-4c3e-a77f-426d28f0baf0,bareassed.tattoo,available,2.98,48.98,low,low,10,namecheap,,,08/08/2026 18:05
 a5020c42-1844-4472-a6c8-8ff9c2ad2786,atworst.tattoo,available,34.99,34.99,medium,low,8,namesilo,,,
 e9e5d711-d6f4-475e-8984-80a919a5dd70,pointat.tattoo,available,34.99,34.99,low,low,8,namesilo,,,
@@ -983,7 +981,7 @@ d2d3f98a-8937-4f11-8749-7fca35667c8d,ifalle.tattoo,available,34.99,34.99,medium,
 f9c94354-e112-4bd0-a504-4c0e2d3d1cde,siberian.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
 b77ee24a-8307-48cc-9468-01dbfd0de4df,plantcommunity.tattoo,available,48.98,,high,low,15,namecheap,,,
 754f3183-1ce1-4d1e-b641-008fc4f32526,humorous.tattoo,available,34.99,34.99,high,low,8,namesilo,,,
-d9434434-080a-4394-8571-7b3f68dbf296,beatenup.tattoo,available,34.99,34.99,medium,low,9,namesilo,,,
+d9434434-080a-4394-8571-7b3f68dbf296,beatenup.tattoo,available,2.98,48.98,low,low,9,namecheap,,,22/09/2026 18:22
 0c9eabdd-f0c6-46ff-9295-769168dd241f,marvel.tattoo,available,48.98,,high,low,6,namecheap,,,
 98e3e4c8-9055-42e9-bead-270d67e97731,aflare.tattoo,available,2.98,48.98,low,low,6,namecheap,,,
 cd0555ad-0bcf-4d43-a745-4dd0fefb611a,words.tattoo,available,34.99,34.99,high,low,5,namesilo,,,
@@ -999,3 +997,5 @@ f626611d-3b44-4aa8-b075-0115ac5dcbae,legion.tattoo,available,34.99,34.99,high,lo
 e8e6267d-0faf-4a19-b722-07a102a2ad29,tow.tattoo,premium,125,,medium,low,3,name.com,,,
 24c15e1d-ce3e-49e7-a78d-d0e93135c697,nightsky.tattoo,available,48.98,,high,low,9,namecheap,,,
 a26dcdb7-5e59-493b-a7ab-17e22df5cda1,sufficient.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
+321af794-6426-42d2-90b7-b43aa625126f,alarm.tattoo,available,2.98,48.98,low,low,5,namecheap,,,
+5ba9ac4e-800c-46c2-8686-bafa27b89cba,xii.tattoo,premium,116,116,low,low,3,namesilo,,,21/09/2026 11:25
