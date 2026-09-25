@@ -1,10 +1,10 @@
-# Available .TATTOO One-Word Domains (33,321)
+# Available .TATTOO One-Word Domains (14,376)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C321%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C376%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tattoo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,321 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,376 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,321 domains · **Median ask:** $21.24 · **High-demand under $2,500:** 23
+**Public extract:** 1,000 rows · **Live catalog:** 14,376 domains · **Median ask:** $17.30 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/tattoo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| pin.tattoo    | available | $48.98    | —             | high           | low    | 3      | namecheap        |
-| glory.tattoo  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| ace.tattoo    | premium   | $130      | $130          | medium         | low    | 3      | namecheap        |
-| pop.tattoo    | available | $48.98    | —             | high           | medium | 3      | namecheap        |
-| north.tattoo  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| ass.tattoo    | premium   | $116      | $116          | low            | low    | 3      | namesilo         |
-| atop.tattoo   | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo         |
-| browse.tattoo | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| bad.tattoo    | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
-| boat.tattoo   | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
-| bob.tattoo    | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
-| cafe.tattoo   | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo         |
-| egg.tattoo    | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| cent.tattoo   | available | $2.98     | $48.98        | medium         | low    | 4      | namecheap        |
-| fly.tattoo    | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
-| cows.tattoo   | available | $48.98    | —             | medium         | low    | 4      | namecheap        |
-| gay.tattoo    | premium   | $130      | $130          | medium         | low    | 3      | namecheap        |
-| cyan.tattoo   | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo         |
-| ham.tattoo    | premium   | $116      | $116          | medium         | low    | 3      | namesilo         |
-| disc.tattoo   | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bread.tattoo      | available | $2.98     | $48.98        | high           | low    | 5      | namecheap        |
+| script.tattoo     | premium   | $116      | $116          | high           | low    | 6      | namesilo         |
+| grocery.tattoo    | available | $2.98     | $48.98        | high           | low    | 7      | namecheap        |
+| economy.tattoo    | available | $2.98     | $48.98        | high           | low    | 7      | namecheap        |
+| section.tattoo    | available | $2.98     | $48.98        | high           | low    | 7      | namecheap        |
+| coordinate.tattoo | available | $2.98     | $48.98        | high           | low    | 10     | namecheap        |
+| handle.tattoo     | available | $2.98     | $48.98        | high           | low    | 6      | namecheap        |
+| pin.tattoo        | available | $48.98    | —             | high           | low    | 3      | namecheap        |
+| find.tattoo       | resell    | $6,804.95 | —             | high           | medium | 4      | Sav.com LLC      |
+| ass.tattoo        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| adam.tattoo       | available | $34.99    | $34.99        | high           | high   | 4      | namesilo         |
+| next.tattoo       | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.  |
+| ava.tattoo        | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
+| area.tattoo       | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| delta.tattoo      | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.  |
+| axe.tattoo        | premium   | $116      | $116          | high           | low    | 3      | namesilo         |
+| atop.tattoo       | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
+| glory.tattoo      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| boy.tattoo        | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| auld.tattoo       | available | $2.98     | $48.98        | medium         | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,321 live domains                        |
+| 1,000-row public sample | 14,376 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TATTOO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
