@@ -1,10 +1,10 @@
-# Available .TATTOO One-Word Domains (23,685)
+# Available .TATTOO One-Word Domains (24,091)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C685%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C091%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .tattoo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,685 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,091 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,685 domains · **Median ask:** $22.07 · **High-demand under $2,500:** 44
+**Public extract:** 1,000 rows · **Live catalog:** 24,091 domains · **Median ask:** $22.24 · **High-demand under $2,500:** 45
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/tattoo`
@@ -65,9 +65,10 @@ print(df.head())
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | liz.tattoo   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
-| store.tattoo | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| coke.tattoo  | resell    | —         | —             | high           | low    | 4      | —               |
 | awe.tattoo   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
 | mon.tattoo   | available | $48.98    | —             | high           | low    | 3      | namecheap       |
+| store.tattoo | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
 | baa.tattoo   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
 | pop.tattoo   | available | $2.98     | $48.98        | high           | medium | 3      | namecheap       |
 | ban.tattoo   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
@@ -83,7 +84,6 @@ print(df.head())
 | gym.tattoo   | premium   | $125      | —             | high           | low    | 3      | name.com        |
 | asin.tattoo  | available | $34.99    | $34.99        | high           | low    | 4      | namesilo        |
 | hua.tattoo   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| atop.tattoo  | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,685 live domains                        |
+| 1,000-row public sample | 24,091 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 44 high-demand names under $2,500          |
+| Basic exported fields   | 45 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
